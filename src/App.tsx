@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <h2>Airbnb Clone</h2>
+      <h2> Clone</h2>
     </>
   )
 }
