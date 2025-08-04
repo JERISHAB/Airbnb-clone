@@ -18,7 +18,7 @@ function MobSearchIcon() {
           ></path>
         </svg>
       </div>
-      <span className="block font-[500]  text-[14px]">Start you sea...</span>
+      <span className="block font-[500]  text-[14px]">Start you search</span>
     </div>
   );
 }
