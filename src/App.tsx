@@ -1,10 +1,11 @@
 import './App.css'
+import Home from './components/pages/Home'
 
 function App() {
 
   return (
     <>
-      <h2>Airbnb Clone</h2>
+      <Home/>
     </>
   )
 }
